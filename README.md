@@ -34,21 +34,6 @@ The dashboard provides insights into:
 * Growth analysis with conditional formatting
 * Executive summary dashboard
 
----
-
-## 📷 Dashboard Screenshots
-
-### Executive Dashboard
-
-![Executive Dashboard](screenshots/executive-dashboard.png)
-
-### Growth Analysis
-
-![Growth Analysis](screenshots/growth-analysis.png)
-
-### Market Analysis
-
-![Market Analysis](screenshots/market-analysis.png)
 
 ---
 
@@ -62,5 +47,5 @@ The dashboard provides insights into:
 
 ## 👨‍💻 Author
 
-Built by Sahidh Sahaf
+Built by Sahith Sahaf
 
