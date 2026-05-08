@@ -1,6 +1,6 @@
-# 📊 Excel Sales Performance Dashboard
+# Excel Sales Performance Dashboard
 
-## 🚀 Project Overview
+## Project Overview
 
 This project is an interactive Excel dashboard built using Power Pivot and DAX to analyze market performance against sales targets.
 
@@ -14,7 +14,7 @@ The dashboard provides insights into:
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 * Microsoft Excel
 * Power Pivot
@@ -25,7 +25,7 @@ The dashboard provides insights into:
 
 ---
 
-## 📈 Key Features
+## Key Features
 
 * Dynamic KPI calculations
 * Variance vs Target analysis
@@ -37,7 +37,7 @@ The dashboard provides insights into:
 
 ---
 
-## 📌 Business Insights
+## Business Insights
 
 * Overall market performance was below target by 10.4%
 * Austria and Spain showed strong positive growth
@@ -45,7 +45,7 @@ The dashboard provides insights into:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Built by Sahith Sahaf
 
